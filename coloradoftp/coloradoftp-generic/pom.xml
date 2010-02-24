@@ -1,0 +1,18 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/maven-v4_0_0.xsd">
+
+	<!-- Begin project description -->
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.coldcore</groupId>
+	<artifactId>coloradoftp-generic</artifactId>
+	<version>1.25</version>
+	<parent>
+		<groupId>com.coldcore</groupId>
+		<artifactId>coloradoftp</artifactId>
+		<version>1.0</version>
+	</parent>
+	<name>coloradoftp-generic</name>
+	<packaging>jar</packaging>
+	<!-- End project description -->
+
+</project>
+
