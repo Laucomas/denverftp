@@ -1,0 +1,33 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/maven-v4_0_0.xsd">
+
+	<!-- Begin project description -->
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.coldcore</groupId>
+	<artifactId>coloradoftp-hardfilesystem</artifactId>
+	<version>1.04</version>
+	<parent>
+		<groupId>com.coldcore</groupId>
+		<artifactId>coloradoftp</artifactId>
+		<version>1.0</version>
+	</parent>
+	<name>coloradoftp-hardfilesystem</name>
+	<packaging>jar</packaging>
+	<!-- End project description -->
+
+	<!-- Begin dependency declarations -->
+	<dependencies>
+		<dependency>
+			<groupId>com.coldcore</groupId>
+			<artifactId>coloradoftp-generic</artifactId>
+			<version>1.25</version>
+		</dependency>
+		<dependency>
+			<groupId>com.coldcore</groupId>
+			<artifactId>coloradoftp-xmlfs</artifactId>
+			<version>1.00</version>
+		</dependency>
+	</dependencies>
+	<!-- End dependency declarations -->
+
+</project>
+
